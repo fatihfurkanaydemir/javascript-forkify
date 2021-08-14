@@ -8,9 +8,9 @@ Design by Jonas Schmedtmann, Javascript functionality implemented by me, used fo
 
 **This project uses npm modules and parcel as build tool**
 
-''' 
+```
 npm install
 nmp run dev
-'''
+```
 
 ![](https://github.com/fatihfurkanaydemir/javascript-forkify/blob/master/page.png)
