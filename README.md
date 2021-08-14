@@ -19,7 +19,7 @@ npm install
 nmp run dev
 
 And then you can visit localhost:1234 address in your browser to access the website
-or you can directly use the address above that is my own portfolio
+or you can directly use the address above that is part of my own portfolio
 ```
 
 ![](https://github.com/fatihfurkanaydemir/javascript-forkify/blob/master/page.png)
