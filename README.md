@@ -8,6 +8,8 @@ MVC (Model View Controller) pattern used in the program design.
 # Usage
 You can search recipes, add your own recipes and bookmark recipes that you like.
 
+**Website Link:**[](https://fatihfurkanaydemir.github.io/forkify)
+
 # Installation
 
 **This project uses npm modules and parcel as build tool**
@@ -15,6 +17,9 @@ You can search recipes, add your own recipes and bookmark recipes that you like.
 ```
 npm install
 nmp run dev
+
+And then you can visit localhost:1234 address in your browser to access the website
+or you can directly use the address above that is my own portfolio
 ```
 
 ![](https://github.com/fatihfurkanaydemir/javascript-forkify/blob/master/page.png)
