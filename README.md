@@ -8,7 +8,7 @@ MVC (Model View Controller) pattern used in the program design.
 # Usage
 You can search recipes, add your own recipes and bookmark recipes that you like.
 
-**Website Link:**[](https://fatihfurkanaydemir.github.io/forkify)
+**Website Link:**[https://fatihfurkanaydemir-forkify.netlify.app](https://fatihfurkanaydemir-forkify.netlify.app)
 
 # Installation
 
