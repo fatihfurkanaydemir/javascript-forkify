@@ -1,25 +1,12 @@
 # Forkify
 
-Forkify website which is a part of JavaScript tutorial by Jonas Schmedtmann.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/44b2e51e-953c-4ffb-9cd7-42ed54aab6b3/deploy-status)](https://app.netlify.com/sites/fatihfurkanaydemir-forkify/deploys)
+
+You can search recipes, add your own recipes and bookmark recipes that you like.
 
 Design by Jonas Schmedtmann, Javascript functionality implemented by me, used for portfolio.
 MVC (Model View Controller) pattern used in the program design.
 
-# Usage
-You can search recipes, add your own recipes and bookmark recipes that you like.
-
 **Website Link:** [https://fatihfurkanaydemir-forkify.netlify.app](https://fatihfurkanaydemir-forkify.netlify.app)
-
-# Installation
-
-**This project uses npm modules and parcel as build tool**
-
-```
-npm install
-nmp run dev
-
-And then you can visit localhost:1234 address in your browser to access the website
-or you can directly use the address above that is part of my own portfolio
-```
 
 ![](https://github.com/fatihfurkanaydemir/javascript-forkify/blob/master/page.png)
